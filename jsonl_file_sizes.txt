@@ -1,0 +1,207 @@
+ 2.7254 GB	/home/nlp-02/kkb2/DICELLM/data/AIHub/001.방송 콘텐츠 대화체 음성인식 데이터
+ 1.8186 GB	/home/nlp-02/kkb2/DICELLM/data/AIHub/002.주요 영역별 회의 음성인식 데이터
+ 2.2496 GB	/home/nlp-02/kkb2/DICELLM/data/AIHub/003.화자 인식용 음성 데이터
+ 1.1141 GB	/home/nlp-02/kkb2/DICELLM/data/AIHub/005.한영 혼합 인식 데이터
+ 0.3186 GB	/home/nlp-02/kkb2/DICELLM/data/AIHub/006.한-영 및 한-중 음성발화 데이터
+ 0.8228 GB	/home/nlp-02/kkb2/DICELLM/data/AIHub/007.저음질 전화망 음성인식 데이터
+ 2.6992 GB	/home/nlp-02/kkb2/DICELLM/data/AIHub/009.전문분야_기술과학_한국어 멀티세션 데이터
+ 3.9745 GB	/home/nlp-02/kkb2/DICELLM/data/AIHub/010.전문분야_사회과학_한국어 멀티세션 데이터
+ 5.0383 GB	/home/nlp-02/kkb2/DICELLM/data/AIHub/011.일상대화 한국어 멀티세션 데이터
+ 0.7569 GB	/home/nlp-02/kkb2/DICELLM/data/AIHub/012.한국어 SNS 멀티턴 대화 데이터
+ 0.0472 GB	/home/nlp-02/kkb2/DICELLM/data/AIHub/013.동화 이해도 테스트를 위한 질의응답쌍 생성 데이터
+ 0.0860 GB	/home/nlp-02/kkb2/DICELLM/data/AIHub/015.동화 줄거리 생성 데이터
+ 0.5407 GB	/home/nlp-02/kkb2/DICELLM/data/AIHub/016.행정 문서 대상 기계독해 데이터
+ 0.5222 GB	/home/nlp-02/kkb2/DICELLM/data/AIHub/017.뉴스 기사 기계독해 데이터
+ 0.0446 GB	/home/nlp-02/kkb2/DICELLM/data/AIHub/018.감성대화
+ 7.6705 GB	/home/nlp-02/kkb2/DICELLM/data/AIHub/018.논문자료 요약 데이터
+ 0.3040 GB	/home/nlp-02/kkb2/DICELLM/data/AIHub/018.음성인식에 의한 영상 요약 데이터
+ 0.1033 GB	/home/nlp-02/kkb2/DICELLM/data/AIHub/019.법률, 규정 (판결서, 약관 등) 텍스트 분석 데이터
+ 0.6459 GB	/home/nlp-02/kkb2/DICELLM/data/AIHub/020.주제별 텍스트 일상 대화 데이터
+ 0.0270 GB	/home/nlp-02/kkb2/DICELLM/data/AIHub/020.한국어 다중 이벤트 추출 데이터
+ 1.5646 GB	/home/nlp-02/kkb2/DICELLM/data/AIHub/021.AI 응답 결과에 대한 품질 평가 데이터
+ 0.4695 GB	/home/nlp-02/kkb2/DICELLM/data/AIHub/021.도서자료 기계독해
+ 0.1705 GB	/home/nlp-02/kkb2/DICELLM/data/AIHub/021.용도별 목적대화 데이터
+ 0.7168 GB	/home/nlp-02/kkb2/DICELLM/data/AIHub/022.민원(콜센터) 질의-응답 데이터
+ 0.3127 GB	/home/nlp-02/kkb2/DICELLM/data/AIHub/022.법률안 검토 보고서 요약 데이터
+ 0.4740 GB	/home/nlp-02/kkb2/DICELLM/data/AIHub/022.요약문 및 레포트 생성 데이터
+ 0.4159 GB	/home/nlp-02/kkb2/DICELLM/data/AIHub/023.국회 회의록 기반 지식검색 데이터
+ 0.2218 GB	/home/nlp-02/kkb2/DICELLM/data/AIHub/023.방송 콘텐츠 대본 요약 데이터
+ 0.0719 GB	/home/nlp-02/kkb2/DICELLM/data/AIHub/024.아동·청소년 상담 데이터
+ 0.2038 GB	/home/nlp-02/kkb2/DICELLM/data/AIHub/024.에세이 글 평가 데이터
+ 0.5899 GB	/home/nlp-02/kkb2/DICELLM/data/AIHub/025.고령자 근현대 경험 기반 스토리 구술 데이터
+ 1.7580 GB	/home/nlp-02/kkb2/DICELLM/data/AIHub/025.일상생활 및 구어체 한-영 번역 병렬 말뭉치 데이터
+ 1.5336 GB	/home/nlp-02/kkb2/DICELLM/data/AIHub/026.기술과학 분야 한-영 번역 병렬 말뭉치 데이터
+ 1.2866 GB	/home/nlp-02/kkb2/DICELLM/data/AIHub/027.일상생활 및 구어체 한-중, 한-일 번역 병렬 말뭉치 데이터
+ 1.3416 GB	/home/nlp-02/kkb2/DICELLM/data/AIHub/028.다국어 구어체 번역 병렬 말뭉치 데이터
+49.6378 GB	/home/nlp-02/kkb2/DICELLM/data/AIHub/029.대규모 구매도서 기반 한국어 말뭉치 데이터
+ 1.7041 GB	/home/nlp-02/kkb2/DICELLM/data/AIHub/030.방송콘텐츠 대화체 음성인식 데이터
+17.4477 GB	/home/nlp-02/kkb2/DICELLM/data/AIHub/030.웹데이터 기반 한국어 말뭉치 데이터
+ 1.3800 GB	/home/nlp-02/kkb2/DICELLM/data/AIHub/031.방송콘텐츠 한국어-영어 통·번역 음성 데이터
+ 0.4442 GB	/home/nlp-02/kkb2/DICELLM/data/AIHub/031.차트 이미지-텍스트 쌍 데이터
+ 1.0272 GB	/home/nlp-02/kkb2/DICELLM/data/AIHub/032.방송콘텐츠 한국어-영어 번역 말뭉치
+ 1.6893 GB	/home/nlp-02/kkb2/DICELLM/data/AIHub/032.특허 분야 자동분류 데이터
+ 1.7379 GB	/home/nlp-02/kkb2/DICELLM/data/AIHub/032.표 이미지-텍스트 쌍 데이터
+ 1.3438 GB	/home/nlp-02/kkb2/DICELLM/data/AIHub/033.방송콘텐츠 한국어-유럽어 통·번역 음성 데이터
+ 0.9642 GB	/home/nlp-02/kkb2/DICELLM/data/AIHub/034.방송콘텐츠 한국어-유럽어 번역 말뭉치
+ 2.9957 GB	/home/nlp-02/kkb2/DICELLM/data/AIHub/036.방송콘텐츠 한국어-아시아어 번역 말뭉치
+ 0.1731 GB	/home/nlp-02/kkb2/DICELLM/data/AIHub/044.페르소나 대화
+ 0.1965 GB	/home/nlp-02/kkb2/DICELLM/data/AIHub/045.지식검색 대화
+ 0.1475 GB	/home/nlp-02/kkb2/DICELLM/data/AIHub/046.공감형 대화
+ 0.9361 GB	/home/nlp-02/kkb2/DICELLM/data/AIHub/047.일반상식 문장 교정 데이터
+ 0.3527 GB	/home/nlp-02/kkb2/DICELLM/data/AIHub/048.일반상식 문장 생성 데이터
+ 1.0236 GB	/home/nlp-02/kkb2/DICELLM/data/AIHub/049.일반상식 문장 생성 평가 데이터
+ 0.0319 GB	/home/nlp-02/kkb2/DICELLM/data/AIHub/050.발화유형(문어,구어,채팅)별 기계번역 병렬 말뭉치
+ 1.1105 GB	/home/nlp-02/kkb2/DICELLM/data/AIHub/051.자연어 분석 후처리용 과교정 검증 데이터
+ 0.6016 GB	/home/nlp-02/kkb2/DICELLM/data/AIHub/052.기계번역 품질 검증 데이터
+ 0.1442 GB	/home/nlp-02/kkb2/DICELLM/data/AIHub/053.한국어-다국어(영어 제외) 번역 말뭉치(기술과학)
+ 0.1408 GB	/home/nlp-02/kkb2/DICELLM/data/AIHub/054.한국어-다국어 번역 말뭉치(기초과학)
+ 0.1471 GB	/home/nlp-02/kkb2/DICELLM/data/AIHub/055.한국어-다국어 번역 말뭉치(인문학)
+ 3.9130 GB	/home/nlp-02/kkb2/DICELLM/data/AIHub/094.관광 특화 말뭉치 데이터
+ 1.5393 GB	/home/nlp-02/kkb2/DICELLM/data/AIHub/113.국내 법률 대상 다국어 번역 데이터
+ 0.8971 GB	/home/nlp-02/kkb2/DICELLM/data/AIHub/114.법률 지식기반 관계 데이터
+ 0.7690 GB	/home/nlp-02/kkb2/DICELLM/data/AIHub/115.법률-규정 텍스트 분석 데이터_고도화_상황에 따른 판례 데이터
+ 2.2065 GB	/home/nlp-02/kkb2/DICELLM/data/AIHub/116.금융 분야 다국어 병렬 말뭉치 데이터
+ 2.9399 GB	/home/nlp-02/kkb2/DICELLM/data/AIHub/118.한-중,한-일 특허 및 기술과학 분야 병렬 말뭉치 데이터
+ 2.9156 GB	/home/nlp-02/kkb2/DICELLM/data/AIHub/119.국가기록물 대상 초거대AI 학습을 위한 말뭉치 데이터
+ 3.2896 GB	/home/nlp-02/kkb2/DICELLM/data/AIHub/120.초거대AI 사전학습용 헬스케어 질의응답 데이터
+51.0262 GB	/home/nlp-02/kkb2/DICELLM/data/AIHub/121.한국어 성능이 개선된 초거대AI 언어모델 개발 및 데이터
+ 1.5352 GB	/home/nlp-02/kkb2/DICELLM/data/AIHub/122.베트남어 말뭉치 데이터
+ 1.0880 GB	/home/nlp-02/kkb2/DICELLM/data/AIHub/124.K-Culture 관광 콘텐츠 특화 일본어 말뭉치 데이터
+ 0.4501 GB	/home/nlp-02/kkb2/DICELLM/data/AIHub/128.전문분야 심층인터뷰 데이터
+ 0.1542 GB	/home/nlp-02/kkb2/DICELLM/data/AIHub/129.채용면접 인터뷰 데이터
+ 0.7149 GB	/home/nlp-02/kkb2/DICELLM/data/AIHub/131.다국어 통·번역 낭독체 데이터
+ 1.0363 GB	/home/nlp-02/kkb2/DICELLM/data/AIHub/132.연령대별 특징적 발화(은어·속어 등) 음성 데이터
+ 0.5406 GB	/home/nlp-02/kkb2/DICELLM/data/AIHub/133.감성 및 발화 스타일 동시 고려 음성합성 데이터
+ 1.2534 GB	/home/nlp-02/kkb2/DICELLM/data/AIHub/134-1.감정이 태깅된 자유대화 (성인)
+ 1.2048 GB	/home/nlp-02/kkb2/DICELLM/data/AIHub/134-2.감정이 태깅된 자유대화 (청소년)
+ 2.3547 GB	/home/nlp-02/kkb2/DICELLM/data/AIHub/137.국가중점기술 분류 대응 특허데이터
+ 1.4177 GB	/home/nlp-02/kkb2/DICELLM/data/AIHub/137.한국어 대학 강의 데이터
+ 0.2032 GB	/home/nlp-02/kkb2/DICELLM/data/AIHub/138.뉴스 대본 및 앵커 음성 데이터
+ 1.1685 GB	/home/nlp-02/kkb2/DICELLM/data/AIHub/141.한국어 멀티세션 대화
+ 0.8403 GB	/home/nlp-02/kkb2/DICELLM/data/AIHub/142.한국어 지식기반 관계 데이터
+ 0.5692 GB	/home/nlp-02/kkb2/DICELLM/data/AIHub/143.민원 업무 효율, 자동화를 위한 언어 AI 학습데이터
+ 0.4640 GB	/home/nlp-02/kkb2/DICELLM/data/AIHub/143.인터페이스(자판-음성)별 고빈도 오류 교정 데이터
+ 0.0539 GB	/home/nlp-02/kkb2/DICELLM/data/AIHub/144.한국인의 주제적응형 영어말하기 평가데이터
+ 5.3068 GB	/home/nlp-02/kkb2/DICELLM/data/AIHub/146.낚시성 기사 탐지 데이터
+ 0.2130 GB	/home/nlp-02/kkb2/DICELLM/data/AIHub/147.속성기반 감정분석 데이터
+ 0.2692 GB	/home/nlp-02/kkb2/DICELLM/data/AIHub/147.텍스트 윤리검증 데이터
+ 0.0555 GB	/home/nlp-02/kkb2/DICELLM/data/AIHub/148.자연어 기반 질의(NL2SQL) 검색 생성 데이터
+ 0.5691 GB	/home/nlp-02/kkb2/DICELLM/data/AIHub/149.표 정보 질의 응답 데이터
+ 0.8106 GB	/home/nlp-02/kkb2/DICELLM/data/AIHub/150.기계번역기 평가 및 신규 말뭉치 구축 데이터_2차년도
+ 0.7081 GB	/home/nlp-02/kkb2/DICELLM/data/AIHub/150.숫자연산 기계독해 데이터
+ 0.4048 GB	/home/nlp-02/kkb2/DICELLM/data/AIHub/152.기술과학 문서 기계독해 데이터
+ 0.6304 GB	/home/nlp-02/kkb2/DICELLM/data/AIHub/153.기술과학 요약 데이터
+ 1.3903 GB	/home/nlp-02/kkb2/DICELLM/data/AIHub/154.의료, 법률 전문 서적 말뭉치
+ 1.2460 GB	/home/nlp-02/kkb2/DICELLM/data/AIHub/155.산업정보 연계 주요국 특허 영-한 데이터
+ 2.6551 GB	/home/nlp-02/kkb2/DICELLM/data/AIHub/156.전문분야 영-한, 중-한 번역 말뭉치(식품)
+ 1.2017 GB	/home/nlp-02/kkb2/DICELLM/data/AIHub/157.방송 콘텐츠 한-중, 한-일 번역 병렬 말뭉치 데이터
+ 0.4297 GB	/home/nlp-02/kkb2/DICELLM/data/AIHub/157.추상 요약 사실성 검증 데이터
+ 0.2331 GB	/home/nlp-02/kkb2/DICELLM/data/AIHub/158.문학작품 낭송, 낭독 음성 데이터(시, 소설, 희곡, 시나리오)
+ 0.3892 GB	/home/nlp-02/kkb2/DICELLM/data/AIHub/158.시간 표현 탐지 데이터
+ 0.0494 GB	/home/nlp-02/kkb2/DICELLM/data/AIHub/159.문장 유형(추론, 예측 등) 판단 데이터
+ 5.1167 GB	/home/nlp-02/kkb2/DICELLM/data/AIHub/159.숫자가 포함된 패턴 발화 데이터
+ 1.0805 GB	/home/nlp-02/kkb2/DICELLM/data/AIHub/160.문화, 게임 콘텐츠 분야 용어 말뭉치
+ 1.0442 GB	/home/nlp-02/kkb2/DICELLM/data/AIHub/167.과학기술표준분류 대응 특허 데이터
+ 1.6670 GB	/home/nlp-02/kkb2/DICELLM/data/AIHub/192.바이오․의료 논문 간 연계 분석 데이터
+ 0.0128 GB	/home/nlp-02/kkb2/DICELLM/data/AIHub/208.전시 공연 도슨트 데이터
+ 2.1709 GB	/home/nlp-02/kkb2/DICELLM/data/AIHub/221.관광지 소개 다국어 번역 데이터
+ 0.6024 GB	/home/nlp-02/kkb2/DICELLM/data/AIHub/222.관광 음식메뉴판 데이터
+ 0.2780 GB	/home/nlp-02/kkb2/DICELLM/data/AIHub/254.어린이 음성맥락 인식률 향상을 위한 방송 음성 및 자연어 처리 학습용 데이터
+ 0.2387 GB	/home/nlp-02/kkb2/DICELLM/data/AIHub/270.인공지능기반 학생 진로탐색을 위한 상담 데이터 구축
+ 4.7665 GB	/home/nlp-02/kkb2/DICELLM/data/AIHub/297.SNS 데이터 고도화
+ 1.5902 GB	/home/nlp-02/kkb2/DICELLM/data/AIHub/308.AI 허브 데이터 활용을 위한 기계 번역앱 구축과 번역기 평가 및 신규 말뭉치 구축
+ 0.9946 GB	/home/nlp-02/kkb2/DICELLM/data/AIHub/고객 응대 음성
+ 0.2979 GB	/home/nlp-02/kkb2/DICELLM/data/AIHub/기계독해
+ 0.2955 GB	/home/nlp-02/kkb2/DICELLM/data/AIHub/도서자료 요약
+ 1.3935 GB	/home/nlp-02/kkb2/DICELLM/data/AIHub/문서요약 텍스트
+ 1.0038 GB	/home/nlp-02/kkb2/DICELLM/data/AIHub/법률 지식베이스
+ 0.3668 GB	/home/nlp-02/kkb2/DICELLM/data/AIHub/비대면 진료를 위한 의료진 및 환자 음성
+ 0.4215 GB	/home/nlp-02/kkb2/DICELLM/data/AIHub/상담 음성
+ 2.2110 GB	/home/nlp-02/kkb2/DICELLM/data/AIHub/소상공인 고객 주문 질의-응답 텍스트
+ 0.2487 GB	/home/nlp-02/kkb2/DICELLM/data/AIHub/일반상식
+ 0.6897 GB	/home/nlp-02/kkb2/DICELLM/data/AIHub/자유대화 음성(노인남녀)
+ 1.3774 GB	/home/nlp-02/kkb2/DICELLM/data/AIHub/자유대화 음성(소아, 유아)
+ 1.3275 GB	/home/nlp-02/kkb2/DICELLM/data/AIHub/자유대화 음성(일반남녀)
+64.9827 GB	/home/nlp-02/kkb2/DICELLM/data/AIHub/전문분야 말뭉치
+ 0.6619 GB	/home/nlp-02/kkb2/DICELLM/data/AIHub/전문분야 한영 말뭉치
+ 0.5637 GB	/home/nlp-02/kkb2/DICELLM/data/AIHub/한국어 강의 음성
+ 0.0369 GB	/home/nlp-02/kkb2/DICELLM/data/AIHub/한국어 대화
+ 0.6666 GB	/home/nlp-02/kkb2/DICELLM/data/AIHub/한국어 대화 요약
+ 1.2735 GB	/home/nlp-02/kkb2/DICELLM/data/AIHub/한국어 방언 발화(강원도)
+ 2.1343 GB	/home/nlp-02/kkb2/DICELLM/data/AIHub/한국어 방언 발화(경상도)
+ 1.9738 GB	/home/nlp-02/kkb2/DICELLM/data/AIHub/한국어 방언 발화(전라도)
+ 2.0540 GB	/home/nlp-02/kkb2/DICELLM/data/AIHub/한국어 방언 발화(제주도)
+ 0.3358 GB	/home/nlp-02/kkb2/DICELLM/data/AIHub/한국어 방언 발화(충청도)
+ 0.8675 GB	/home/nlp-02/kkb2/DICELLM/data/AIHub/한국어-영어 번역 말뭉치(기술과학)
+ 0.9780 GB	/home/nlp-02/kkb2/DICELLM/data/AIHub/한국어-영어 번역 말뭉치(사회과학)
+ 0.6765 GB	/home/nlp-02/kkb2/DICELLM/data/AIHub/한국어-영어 번역(병렬) 말뭉치
+ 0.7765 GB	/home/nlp-02/kkb2/DICELLM/data/AIHub/한국어-일본어 번역 말뭉치
+ 0.6234 GB	/home/nlp-02/kkb2/DICELLM/data/AIHub/한국어-중국어 번역 말뭉치(기술과학)
+ 0.6130 GB	/home/nlp-02/kkb2/DICELLM/data/AIHub/한국어-중국어 번역 말뭉치(사회과학)
+ 0.4283 GB	/home/nlp-02/kkb2/DICELLM/data/AIHub/회의 음성
+337.9671 GB	/home/nlp-02/kkb2/DICELLM/data/AIHub
+ 0.0104 GB	/home/nlp-02/kkb2/DICELLM/data/ModuCorpus/감성 분석 말뭉치 2020
+ 0.2501 GB	/home/nlp-02/kkb2/DICELLM/data/ModuCorpus/개체명 분석 말뭉치
+ 0.6178 GB	/home/nlp-02/kkb2/DICELLM/data/ModuCorpus/개체명 분석 말뭉치 2020
+ 0.4868 GB	/home/nlp-02/kkb2/DICELLM/data/ModuCorpus/개체명 분석 말뭉치 2021
+ 0.4331 GB	/home/nlp-02/kkb2/DICELLM/data/ModuCorpus/개체명 분석 말뭉치 2022
+ 1.2559 GB	/home/nlp-02/kkb2/DICELLM/data/ModuCorpus/개체명 분석 말뭉치 개체 연결 2021
+ 0.5025 GB	/home/nlp-02/kkb2/DICELLM/data/ModuCorpus/개체명 분석 말뭉치 개체 연결 2022
+ 0.2165 GB	/home/nlp-02/kkb2/DICELLM/data/ModuCorpus/개체명 사전 2021
+ 0.1178 GB	/home/nlp-02/kkb2/DICELLM/data/ModuCorpus/개체명 사전 2022
+ 0.4577 GB	/home/nlp-02/kkb2/DICELLM/data/ModuCorpus/구문 분석 말뭉치
+ 3.9555 GB	/home/nlp-02/kkb2/DICELLM/data/ModuCorpus/구어 말뭉치
+ 1.9075 GB	/home/nlp-02/kkb2/DICELLM/data/ModuCorpus/국회 회의록 말뭉치 2021
+ 0.2105 GB	/home/nlp-02/kkb2/DICELLM/data/ModuCorpus/국회 회의록 요약 말뭉치 2023
+ 0.0016 GB	/home/nlp-02/kkb2/DICELLM/data/ModuCorpus/그래프 기반 문장 생성 말뭉치 2022
+ 0.0219 GB	/home/nlp-02/kkb2/DICELLM/data/ModuCorpus/대화 맥락 추론 말뭉치 2023
+ 0.1275 GB	/home/nlp-02/kkb2/DICELLM/data/ModuCorpus/맞춤법 교정 말뭉치 2021
+ 0.2772 GB	/home/nlp-02/kkb2/DICELLM/data/ModuCorpus/맞춤법 교정 말뭉치 2022
+ 0.1123 GB	/home/nlp-02/kkb2/DICELLM/data/ModuCorpus/메신저 말뭉치
+ 0.2992 GB	/home/nlp-02/kkb2/DICELLM/data/ModuCorpus/무형 대용어 복원 말뭉치 2020
+ 0.0082 GB	/home/nlp-02/kkb2/DICELLM/data/ModuCorpus/문법성 판단 말뭉치
+ 0.0058 GB	/home/nlp-02/kkb2/DICELLM/data/ModuCorpus/문서 요약 말뭉치
+ 3.3755 GB	/home/nlp-02/kkb2/DICELLM/data/ModuCorpus/문어 말뭉치
+ 0.0476 GB	/home/nlp-02/kkb2/DICELLM/data/ModuCorpus/비출판물 말뭉치
+ 0.2567 GB	/home/nlp-02/kkb2/DICELLM/data/ModuCorpus/상호 참조 해결 말뭉치 2019
+ 0.0086 GB	/home/nlp-02/kkb2/DICELLM/data/ModuCorpus/속성 기반 감성 분석 말뭉치 2021
+12.2973 GB	/home/nlp-02/kkb2/DICELLM/data/ModuCorpus/신문 말뭉치
+ 1.7236 GB	/home/nlp-02/kkb2/DICELLM/data/ModuCorpus/신문 말뭉치 2020
+ 2.5794 GB	/home/nlp-02/kkb2/DICELLM/data/ModuCorpus/신문 말뭉치 2021
+ 2.7588 GB	/home/nlp-02/kkb2/DICELLM/data/ModuCorpus/신문 말뭉치 2022
+ 2.9548 GB	/home/nlp-02/kkb2/DICELLM/data/ModuCorpus/신문 말뭉치 2023
+ 0.0316 GB	/home/nlp-02/kkb2/DICELLM/data/ModuCorpus/어휘 관계 자료 NIKLex
+ 1.0075 GB	/home/nlp-02/kkb2/DICELLM/data/ModuCorpus/어휘 의미 분석 말뭉치 2020
+ 0.6547 GB	/home/nlp-02/kkb2/DICELLM/data/ModuCorpus/온라인 게시 자료 말뭉치 2022
+ 0.5610 GB	/home/nlp-02/kkb2/DICELLM/data/ModuCorpus/온라인 대화 말뭉치 2021
+ 0.0275 GB	/home/nlp-02/kkb2/DICELLM/data/ModuCorpus/유사 문장 말뭉치
+ 0.1663 GB	/home/nlp-02/kkb2/DICELLM/data/ModuCorpus/일상 대화 말뭉치 2020
+ 0.3010 GB	/home/nlp-02/kkb2/DICELLM/data/ModuCorpus/일상 대화 말뭉치 2021
+ 0.1869 GB	/home/nlp-02/kkb2/DICELLM/data/ModuCorpus/일상 대화 말뭉치 2022
+ 0.1441 GB	/home/nlp-02/kkb2/DICELLM/data/ModuCorpus/일상 대화 요약 말뭉치 2023
+ 0.0003 GB	/home/nlp-02/kkb2/DICELLM/data/ModuCorpus/추론_확신성 분석 말뭉치 2020
+ 0.0010 GB	/home/nlp-02/kkb2/DICELLM/data/ModuCorpus/추론_확신성 분석 말뭉치 2021
+ 0.0709 GB	/home/nlp-02/kkb2/DICELLM/data/ModuCorpus/한국어-러시아어 병렬 말뭉치 2021
+ 0.0855 GB	/home/nlp-02/kkb2/DICELLM/data/ModuCorpus/한국어-러시아어 병렬 말뭉치 2022
+ 0.0583 GB	/home/nlp-02/kkb2/DICELLM/data/ModuCorpus/한국어-베트남어 병렬 말뭉치 2021
+ 0.0701 GB	/home/nlp-02/kkb2/DICELLM/data/ModuCorpus/한국어-베트남어 병렬 말뭉치 2022
+ 0.0522 GB	/home/nlp-02/kkb2/DICELLM/data/ModuCorpus/한국어-우즈베크어 병렬 말뭉치 2021
+ 0.0609 GB	/home/nlp-02/kkb2/DICELLM/data/ModuCorpus/한국어-우즈베크어 병렬 말뭉치 2022
+ 0.0523 GB	/home/nlp-02/kkb2/DICELLM/data/ModuCorpus/한국어-인도네시아어 병렬 말뭉치 2021
+ 0.0622 GB	/home/nlp-02/kkb2/DICELLM/data/ModuCorpus/한국어-인도네시아어 병렬 말뭉치 2022
+ 0.0990 GB	/home/nlp-02/kkb2/DICELLM/data/ModuCorpus/한국어-캄보디아 크메르어 병렬 말뭉치 2021
+ 0.1207 GB	/home/nlp-02/kkb2/DICELLM/data/ModuCorpus/한국어-캄보디아 크메르어 병렬 말뭉치 2022
+ 0.0911 GB	/home/nlp-02/kkb2/DICELLM/data/ModuCorpus/한국어-태국어 병렬 말뭉치 2021
+ 0.1108 GB	/home/nlp-02/kkb2/DICELLM/data/ModuCorpus/한국어-태국어 병렬 말뭉치 2022
+ 0.0528 GB	/home/nlp-02/kkb2/DICELLM/data/ModuCorpus/한국어-필리핀 타갈로그어 병렬 말뭉치 2021
+ 0.0628 GB	/home/nlp-02/kkb2/DICELLM/data/ModuCorpus/한국어-필리핀 타갈로그어 병렬 말뭉치 2022
+ 0.0897 GB	/home/nlp-02/kkb2/DICELLM/data/ModuCorpus/한국어-힌디어 병렬 말뭉치 2021
+ 0.1083 GB	/home/nlp-02/kkb2/DICELLM/data/ModuCorpus/한국어-힌디어 병렬 말뭉치 2022
+ 0.6521 GB	/home/nlp-02/kkb2/DICELLM/data/ModuCorpus/형태 분석 말뭉치
+42.2595 GB	/home/nlp-02/kkb2/DICELLM/data/ModuCorpus
+ 0.0040 GB	/home/nlp-02/kkb2/DICELLM/data/NIKL/국어의 로마자 표기법
+ 0.0294 GB	/home/nlp-02/kkb2/DICELLM/data/NIKL/외래어 표기법
+ 1.1245 GB	/home/nlp-02/kkb2/DICELLM/data/NIKL/우리말샘 사전
+ 0.0004 GB	/home/nlp-02/kkb2/DICELLM/data/NIKL/한글맞춤법 표준어규정 해설
+ 1.1582 GB	/home/nlp-02/kkb2/DICELLM/data/NIKL
+381.3848 GB	전체 파일 크기
