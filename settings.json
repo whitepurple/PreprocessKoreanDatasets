@@ -1,4 +1,4 @@
 {
-    "raw_datapath": "./data",
-    "preprocessed_datapath": "./data"
+    "raw_data_path": "./data",
+    "preprocessed_data_path": "./data"
 }
